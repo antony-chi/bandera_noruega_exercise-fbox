@@ -1,0 +1,55 @@
+body{
+    background-color: #083693;
+    margin: 0;
+
+}
+
+.papacuadrito{
+
+}
+
+.linea{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    margin-bottom: 40px;
+
+}
+.cuadrito{
+    /* margin-bottom: 50px; */
+    /* margin-right: 80px; */
+    width: 300px;
+
+    background-color: red;
+    border-right: white solid 30px;
+    margin-right: 50px;
+    
+}
+
+.rectangulo{
+    background-color: red;
+    width: 500px;
+    height: 300px;
+    border-left: white solid 30px;
+    /* margin-bottom: 50px; */
+}
+
+.rectanguloarriba{
+    border-bottom: white solid 30px;
+}
+
+
+.cuadritoabajo{
+    border-top: white solid 30px;
+}
+.cuadritoarriba{
+    border-bottom: white solid 30px;
+}
+
+.rectanguloabajo{
+    border-top: white solid 30px;
+}
+h1{
+    margin: 0;
+    height: 270px;
+}
